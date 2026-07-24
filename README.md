@@ -100,22 +100,3 @@ Total Stok Dibutuhkan    : 185 unit
 STATUS: 🚨 PERLU REORDER SEGERA! (Saran Tambahan Stok: +85 unit)
 
 ```
-
----
-
-## 📂 Repository Structure
-
-```text
-├── data/                      # Raw and processed datasets (ignored in git)
-├── models/                    # Saved model artifacts (.pkl)
-├── notebooks/                 # Jupyter notebooks for EDA, training & evaluation
-├── README.md                  # Project documentation
-└── requirements.txt           # Python dependencies
-
-```
-
----
-
-## 📜 License
-
-This project is open-source under the [MIT License](https://www.google.com/search?q=LICENSE).
